@@ -1,0 +1,119 @@
+@SineIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.SineIn)
+
+@SineOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.SineOut)
+
+@SineInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.SineInOut)
+
+@QuadIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuadIn)
+
+@QuadOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuadOut)
+
+@QuadInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuadInOut)
+
+@CubicIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CubicIn)
+
+@CubicOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CubicOut)
+
+@CubicInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CubicInOut)
+
+@QuartIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuartIn)
+
+@QuartOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuartOut)
+
+@QuartInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuartInOut)
+
+@QuintIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuintIn)
+
+@QuintOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuintOut)
+
+@QuintInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.QuintInOut)
+
+@CircIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CircIn)
+
+@CircOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CircOut)
+
+@CircInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.CircInOut)
+
+@ExpoIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ExpoIn)
+
+@ExpoOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ExpoOut)
+
+@ExpoInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ExpoInOut)
+
+@BackIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BackIn)
+
+@BackOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BackOut)
+
+@BackInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BackInOut)
+
+@ElasticIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ElasticIn)
+
+@ElasticOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ElasticOut)
+
+@ElasticInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.ElasticInOut)
+
+@BounceIn
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BounceIn)
+
+@BounceOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BounceOut)
+
+@BounceInOut
+dofile("script/YMM4/easeinit.lua")
+return GetValue(ease.BounceInOut)
